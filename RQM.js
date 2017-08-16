@@ -1,7 +1,11 @@
 var quotes = [
 'But man is not made for defeat. A man can be destroyed but not defeated. -Ernest Hemingway' ,
 'When you reach the end of your rope, tie a knot in it and hang on. -Franklin D. Roosevelt' ,
-'It is better to be feared than loved, if you cannot be both. -Niccolo Machiavelli'
+'It is better to be feared than loved, if you cannot be both. -Niccolo Machiavelli' ,
+'Lord, make me an instrument of thy peace. Where there is hatred, let me sow love. -Francis of Assisi' ,
+'Good judgment comes from experience, and a lot of that comes from bad judgment. -Will Rogers' ,
+'Life without love is like a tree without blossoms or fruit. -Khalil Gibran' ,
+'Think in the morning. Act in the noon. Eat in the evening. Sleep in the night. -William Blake' 
 ]
 
 /*
